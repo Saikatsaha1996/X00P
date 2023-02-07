@@ -1,0 +1,15 @@
+X00PD:
+  Vendor: Asus
+  PrettyName: Zenfone Max M1
+  DeviceType: phone
+  GridUnit: 18
+  WebkitDpr: 1.8
+  PrimaryOrientation: Portrait
+  SupportedOrientations:
+    - Portrait
+    - Landscape
+    - InvertedLandscape
+  MirAndroidPlatformClientEglFlush:
+    - "!/usr/bin/unity8,!/usr/bin/lomiri,all"
+  MirAndroidPlatformServerEglSync: false
+  MirAndroidPlatformServerPartialUpdates: true
